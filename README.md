@@ -1,3 +1,3 @@
 # SPACE-INVADERS-GAME
 
-Space invaders feito em python
+Jogo Space Invaders desenvolvido em Python como trabalho final na matéria de introdução a programação de computadores pela UEA - Universidade do Estado do Amazonas.
