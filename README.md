@@ -1,3 +1,8 @@
-# SPACE-INVADERS-GAME
+# PROCESSO SELETIVO BEMOL
 
-Jogo Space Invaders desenvolvido em Python como trabalho final na matéria de introdução a programação de computadores pela UEA - Universidade do Estado do Amazonas.
+## Requisitos para rodar a aplicação
+
+1. NodeJs
+2. Mysql
+
+
