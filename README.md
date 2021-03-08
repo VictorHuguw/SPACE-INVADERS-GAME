@@ -1,4 +1,4 @@
-# PROCESSO SELETIVO BEMOL
+
 
 ## Requisitos para rodar a aplicação
 
